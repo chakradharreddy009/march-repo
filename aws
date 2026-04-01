@@ -5,5 +5,7 @@ new dev
 added new to aws
 and changes are done
 
-
 python added
+# This program prints Hello, world!
+
+print('Hello, world!')
